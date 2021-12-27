@@ -1,0 +1,59 @@
+img{
+    width: 120px;
+    height: 120px;
+    margin-bottom: 25px;
+}
+.total{
+display: flex;
+    border-bottom: 2px solid blueviolet;
+    flex-direction: row;
+
+}
+#totals{
+    margin-left: 50px;
+    font-size: 16px;
+    font-family: courier New;
+    color: rgb(27, 75, 131);
+   
+}
+.article{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* margin-left: 50px;
+    margin-right: 40px; */
+    border-bottom: 1px;
+    flex-direction: row;
+    background-color: cornsilk;
+    background-size: cover;
+    
+    
+}
+.fas{
+    
+    color: rgba(0, 68, 255, 0.575);
+    
+    
+}
+span{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    
+}
+.fa-heart{
+    color: black;
+}
+body{
+background-color:rgb(217, 144, 221);
+}
+.fa-cart-plus{
+    
+    color: chocolate;
+    margin-left: 75%;
+  
+    
+}
+
+
+
